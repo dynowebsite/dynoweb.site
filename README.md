@@ -1,10 +1,10 @@
 # dynoweb.site
 
 dynoweb.site
-Welcome to the dynoweb.site repository! This repository serves as a central hub for resources and information related to dynoweb.site, an AI-powered website builder that offers an intuitive drag-and-drop interface, a vast library of ready-to-use templates, and powerful customization options.
+Welcome to the dynoweb.site repository! This repository serves as a central hub for resources and information related to dynoweb.site, an <a href="https://dynoweb.site/ai-website-builder/">AI-powered website builder</a> that offers an intuitive drag-and-drop interface, a vast library of ready-to-use templates, and powerful customization options.
 
 About dynoweb.site
-dynoweb.site is a feature-rich website builder designed to empower individuals and businesses to create stunning websites without the need for coding or technical expertise. Whether you're a small business owner, a creative professional, or an aspiring blogger, dynoweb.site provides you with all the tools you need to bring your online presence to life.
+dynoweb.site is a feature-rich <a href="https:dynoweb.site">website builder</a> designed to empower individuals and businesses to create stunning websites without the need for coding or technical expertise. Whether you're a small business owner, a creative professional, or an aspiring blogger, dynoweb.site provides you with all the tools you need to bring your online presence to life.
 
 Key Features
 Easy Drag-and-Drop Interface: With dynoweb.site's user-friendly interface, you can effortlessly build and customize your website by simply dragging and dropping elements onto the canvas. No coding required!
@@ -15,7 +15,7 @@ Powerful Customization Options: dynoweb.site offers advanced customization capab
 
 AI Assistance: While dynoweb.site emphasizes human creativity, it also incorporates AI-powered features to streamline the website creation process. The built-in chat AI-based assistant provides guidance, suggestions, and content ideas, ensuring you have the support you need every step of the way.
 
-Resources
+<b><a href="https://dynoweb.site/resources">Resources</a></b>
 In this repository, you will find a comprehensive collection of resources to help you make the most of dynoweb.site:
 
 Documentation: Dive into detailed documentation and guides that cover various aspects of using dynoweb.site effectively. Learn how to navigate the interface, customize templates, optimize performance, and more.
